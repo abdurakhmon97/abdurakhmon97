@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdurakhmon97
+- 👋 Hi, I’m Abdurakhmon, or You can call me Jon
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning kotlin programming language
 - 💞️ I’m looking to collaborate on developing in kotlin using Android Jetpack
