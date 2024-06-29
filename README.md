@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Abdurakhmon, or You can call me Jon
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin programming language
-- 💞️ I’m looking to collaborate on developing in kotlin using Android Jetpack
+- 👋 Hi, I’m Abdurakhmon
+- 👀 I’m a professional Mobile Developer
+- 🌱 I’m currently leading a team of three Flutter Developers in the main project of Future Open Technology Group
 - 📫 How to reach me: via email: abdurakhmon.makh@gmail.com
                       via phone: +998 33 702 33 55
 
